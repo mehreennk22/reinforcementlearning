@@ -2,7 +2,7 @@ Reinforcement Learning – GridWorld using Q-Learning
 
 This project demonstrates the fundamentals of Reinforcement Learning (RL) by implementing a GridWorld environment and training an agent using Tabular Q-Learning. The goal is to help understand how an agent learns optimal behavior through interaction with an environment using rewards and penalties.
 
-📌 Project Overview
+ Project Overview:
 
 A simple GridWorld environment
 
@@ -14,7 +14,7 @@ Designed for academic learning and experimentation
 
 This project is ideal for beginners who want hands-on experience with core RL concepts.
 
-🎯 Objectives
+Objectives:
 
 Understand the agent–environment interaction
 
@@ -24,7 +24,7 @@ Observe how an agent learns optimal paths through exploration and exploitation
 
 Visualize rewards, actions, and learning progress
 
-🧩 Key Concepts Used
+Key Concepts Used:
 
 Reinforcement Learning
 
@@ -38,7 +38,7 @@ Reward-based learning
 
 GridWorld Environment
 
-⚙️ Technologies & Libraries
+Technologies & Libraries:
 
 Python
 
